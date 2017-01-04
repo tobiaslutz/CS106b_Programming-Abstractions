@@ -12,4 +12,4 @@ When compiling the starter code for the assignments the first time, you might en
 
 Architectures | Base SDK | OS X Deployment Target
 --- | --- | ---
-<img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/CS106a - Karel the Robot/Screenshots/runConfigurationMain.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/CS106a - Karel the Robot/Screenshots/runConfigurationArguments.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/CS106a - Karel the Robot/Screenshots/runConfigurationJRE.png" width="200">
+<img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/xcodeScreenshots/Architectures.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/xcodeScreenshots/Base_SDK.png" width="200"> | <img src="https://github.com/tobiaslutz/CS106b_Programming-Abstractions/blob/master/xcodeScreenshots/Deployment_Target.png" width="200">
